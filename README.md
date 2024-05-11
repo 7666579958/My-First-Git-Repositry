@@ -1,5 +1,5 @@
 # My-First-Git-Repositry\
 This is my first repositry
-<hr>
+border:2px solid yellow;
 Author- Aniruddha
 
